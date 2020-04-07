@@ -1,0 +1,2 @@
+# ComputerStatus-Widget
+ComputerStatus Widget
